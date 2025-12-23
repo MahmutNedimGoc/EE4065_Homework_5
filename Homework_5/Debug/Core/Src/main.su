@@ -1,0 +1,8 @@
+../Core/Src/main.c:49:6:pure_fft	96	static
+../Core/Src/main.c:101:6:Extract_Features_Pure	64	static
+../Core/Src/main.c:181:5:main	280	static
+../Core/Src/main.c:255:6:SystemClock_Config	88	static
+../Core/Src/main.c:310:13:MX_CRC_Init	8	static
+../Core/Src/main.c:336:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:369:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:411:6:Error_Handler	4	static,ignoring_inline_asm
