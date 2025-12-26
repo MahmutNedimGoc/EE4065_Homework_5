@@ -1,0 +1,8 @@
+../Core/Src/main.c:26:7:relu	2
+../Core/Src/main.c:31:6:calculate_hu_moments	9
+../Core/Src/main.c:105:5:predict_digit_mlp	9
+../Core/Src/main.c:199:5:main	1
+../Core/Src/main.c:233:6:SystemClock_Config	3
+../Core/Src/main.c:281:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:314:13:MX_GPIO_Init	1
+../Core/Src/main.c:356:6:Error_Handler	1
